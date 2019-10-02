@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Problem Solving With Python
 
-You can use the [editor on GitHub](https://github.com/priyanshs/ProblemSolvingWithPython/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the course material from Problem Solving with Python, a programming course taught at ABES Engineering College, Ghaziabad, India. The coursework is designed by [Mr Ajit Shukla](https://www.abes.ac.in/teachers/mr-ajit-shukla/), [Ms Priyanka Gupta](https://www.abes.ac.in/teachers/ms-priyanka-gupta/) and [Mr Priyansh](https://priyanshs.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first eight to ten hours are dedicated to familiarizing the student with the concepts of Python language along with various constructs. Afterwards, the course focuses on building problem-solving skills used in competitive programming. The lectures and problem set will be posted weekly. Lecture slides, the problem sets, and other supporting material can be found in this repository. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/priyanshs/ProblemSolvingWithPython/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The materials posted here were developed using vairous resources:
+1. [cp-algorithms](https://cp-algorithms.com/)
+2. [CS 97SI (Stanford)](http://web.stanford.edu/class/cs97si/)
+3. [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
+4. [Algorithm Design (Princeton)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+5. [Algorithms by Jeff Erickson (Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
