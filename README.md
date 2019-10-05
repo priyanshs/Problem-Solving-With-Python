@@ -1,11 +1,11 @@
 
 This repository contains the course material from Problem Solving with Python, a programming course taught at ABES Engineering College, Ghaziabad, India. The coursework is designed by [Mr Ajit Shukla](https://www.abes.ac.in/teachers/mr-ajit-shukla/), [Ms Priyanka Gupta](https://www.abes.ac.in/teachers/ms-priyanka-gupta/) and [Mr Priyansh](https://priyanshs.github.io/)
 
-The first eight to ten hours are dedicated to familiarizing the student with the concepts of Python language along with various constructs. Afterwards, the course focuses on building problem-solving skills used in competitive programming. The lectures and problem set will be posted weekly. Lecture slides, the problem sets, and other supporting material can be found in this repository. Most of the slides and material 
+The first eight to ten hours are dedicated to familiarizing the student with the concepts of Python language along with various constructs. Afterwards, the course focuses on building problem-solving skills used in competitive programming. The lectures and problem set will be posted weekly. Lecture slides, the problem sets, and other supporting material can be found in this repository. Most slides in this repository were prepared by Mr Priyansh, while most problems were borrowed from various online sources. 
 
 | File Name | Topic List | Link |
 |:-------------:|:-------------:|:-----:|
-| Python-Training-IT-1.pdf| Identifiers, Block of Code, Input and Output, Operators in Python, Range, Loop Constructs | [Link]() |
+| Lecture 1 : Introduction | Identifiers, Block of Code, Input and Output, Operators in Python, Range, Loop Constructs | [Link]() |
 | ClassroomAssignment1.pdf |       |    |
 | Python-Training-IT-2.pdf |       |     |
 | ClassroomAssignment2.pdf |       |    |
