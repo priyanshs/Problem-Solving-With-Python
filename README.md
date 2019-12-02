@@ -10,7 +10,6 @@ The first ten to twelve hours are dedicated to familiarizing the student with th
 | Lecture 2:  | Numeric Types, Sequences, Lists, List Comprehension, Tuples, Operations on Sequences, Slicing, Concatenation, Unpacking, Two Dimensional Arrays, Strings, String Functions| [Link](https://github.com/priyanshs/ProblemSolvingWithPython/blob/master/Python2.pdf)   |
 | Lecture 3: | | |
 | Classroom Assignment 2 | - - - - - - - - - - - - - |    |
-
 | Lecture 4: | |    |
 | ClassroomAssignment2.pdf |       |    |
 | Lecture 5: | | |
