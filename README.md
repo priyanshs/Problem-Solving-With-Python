@@ -6,10 +6,14 @@ The first ten to twelve hours are dedicated to familiarizing the student with th
 | File Name | Topic List | Link |
 |:-------------:|:-------------:|:-----:|
 | Lecture 1: Introduction | Identifiers, Block of Code, Input and Output, Operators in Python, Range, Loop Constructs | [Link](https://github.com/priyanshs/ProblemSolvingWithPython/blob/master/Python1.pdf) |
-| ClassroomAssignment1.pdf |       |    |
-| Python-Training-IT-2.pdf |       |     |
+| Classroom Assignment |- - - - - - - - - - - - - |    |
+| Lecture 2:  | Numeric Types, Sequences, Lists, List Comprehension, Tuples, Operations on Sequences, Slicing, Concatenation, Unpacking, Two Dimensional Arrays, Strings, String Functions| [Link](https://github.com/priyanshs/ProblemSolvingWithPython/blob/master/Python2.pdf)   |
+| Lecture 3: | | |
+| Classroom Assignment 2 | - - - - - - - - - - - - - |    |
+
+| Lecture 4: | |    |
 | ClassroomAssignment2.pdf |       |    |
-| Python-Training-IT-3.pdf | | |
+| Lecture 5: | | |
 | Python-Training-IT-4.pdf | |    |
 
 The materials posted here were developed using various resources:
